@@ -3849,6 +3849,11 @@ hardhat-dependency-compiler@1.1.1:
   resolved "https://registry.yarnpkg.com/hardhat-dependency-compiler/-/hardhat-dependency-compiler-1.1.1.tgz#0bfe713d450a7fdad14a210b7a9b8a32e56cc744"
   integrity sha512-2xubH8aPojhMGbILFlfL28twu6l/5Tyrj4Dpkogvycse6YegKW9GuGA3rnbPH0KP+Nv2xT626ZuR2Ys+w3ifPw==
 
+hardhat-ethers@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/hardhat-ethers/-/hardhat-ethers-1.0.1.tgz#3b9010fde35ba7738b5f329d320ae4b03ef0e767"
+  integrity sha512-zS7VPEwlYwIbMZG/PTDM9pF1cagmxNGxA6hLCOFQt/wYPDWgw5eUQNchi9fRbd+k6ZIgm3UypsjK60Qqlx7Ogw==
+
 hardhat@2.6.4:
   version "2.6.4"
   resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-2.6.4.tgz#9ff3f139f697bfc4e14836a3fef3ca4c62357d65"
